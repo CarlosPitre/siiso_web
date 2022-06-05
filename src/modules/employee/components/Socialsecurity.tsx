@@ -5,7 +5,7 @@ import { ButtonPrimary } from "../../../components/buttons/ButtonPrimary";
 import InputCheckBox from "../../../components/input/InputCheckBox";
 import InputDate from "../../../components/input/InputDate";
 import { InputText } from "../../../components/input/InputText";
-import { SocialsecurityForm } from "../../../types/EmployeeTypes";
+import { SocialsecurityForm } from "../../../types/employeeTypes";
 import { EmployeeContext } from "../Employee";
 import InputSelect, {
   SelectOptions,

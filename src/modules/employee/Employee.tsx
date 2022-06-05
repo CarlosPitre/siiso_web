@@ -16,7 +16,7 @@ import {
   ContractualInformationForm,
   EmployeeForm,
   SiteForm,
-} from "../../types/EmployeeTypes";
+} from "../../types/employeeTypes";
 import { useHistory } from "react-router";
 
 const steppers: StepperOptions[] = [

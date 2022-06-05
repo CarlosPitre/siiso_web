@@ -5,11 +5,13 @@ import { ButtonPrimary } from "../../../components/buttons/ButtonPrimary";
 import InputCheckBox from "../../../components/input/InputCheckBox";
 import InputDate from "../../../components/input/InputDate";
 import { InputText } from "../../../components/input/InputText";
-import { DemographicinformationForm } from "../../../types/EmployeeTypes";
-import { EmployeeContext } from "../Employee";
 import InputSelect, {
   SelectOptions,
 } from "../../../components/input/InputSelect";
+
+import { DemographicinformationForm } from "../../../types/employeeTypes";
+import { EmployeeContext } from "../Employee";
+
 
 
 const departmentofbirth: SelectOptions[] = [

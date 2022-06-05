@@ -6,7 +6,7 @@ import InputSelect, {
   SelectOptions,
 } from "../../../components/input/InputSelect";
 import { InputText } from "../../../components/input/InputText";
-import { PersonalInformationForm } from "../../../types/EmployeeTypes";
+import { PersonalInformationForm } from "../../../types/employeeTypes";
 
 import * as Yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
